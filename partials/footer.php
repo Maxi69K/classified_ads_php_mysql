@@ -1,5 +1,5 @@
 <footer class="my-footer">
-    <small>&copy; 2023 Top Books by
+    <small>&copy; 2023 Classified ads by
         <a target="_blank" href="https://webdizajnmaxi.eu.org"><span>Maxi</span></a>. All Rights
         Reserved.</small>
 </footer>
