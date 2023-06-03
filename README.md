@@ -29,3 +29,13 @@ INSERT INTO users VALUES
 INSERT INTO ads VALUES
 (NULL, 'Monitor Acer 900', 'I am selling a used monitor', 'computers', 14000, 1),
 (NULL, 'Samsung S20', 'I am selling a used, well-preserved phone.', 'mobile phones', 35000, 2);
+
+### `Classified ads` :point_right: [Live Demo](https://maxidesign.eu.org/index.php) :point_left: just do a CTRL+click (to open :link: in a new tab)
+
+<div align="center">
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="myoctocat" width="200">
+</div>
+
+<div align="center">
+<a href="https://webdizajnmaxi.eu.org">By Maxi</a>
+</div>
